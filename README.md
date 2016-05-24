@@ -1,2 +1,2 @@
 # pystudy
-This is a training to use "**Python**".
+This is a repository to study "**Python**".
