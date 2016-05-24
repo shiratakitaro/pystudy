@@ -26,3 +26,19 @@ print(route, type(route)) #North- <class 'str'> と表示
 ['alpha', 'bravo', 'charlie', 'delta', 'echo']
 ['zebra', 49. -879. 'aardvark', 200]
 []
+
+if boolean_expression1:
+    suite1
+elif boolean_expression2:
+    suite2
+elif boolean_expressionN:
+    suiteN
+else:
+    else_suite
+
+if lines < 1000:
+    print("small")
+elif lines < 10000:
+    print("medium")
+else:
+    print("large")
