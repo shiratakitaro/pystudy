@@ -24,4 +24,5 @@ print(route, type(route)) #North- <class 'str'> と表示
 
 [1, 4, 9, 16, 25, 36, 49]
 ['alpha', 'bravo', 'charlie', 'delta', 'echo']
-['zebra', 49]
+['zebra', 49. -879. 'aardvark', 200]
+[]
